@@ -21,7 +21,7 @@ body{
 .container{
     height: auto;
     width: 48rem;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .container.QR{
